@@ -27,7 +27,7 @@
     "name": "Chocolate Fudge Brownie",
     "description": "A rich fudge brownie drizzled with chocolate ganache",
     "price": 3.99,
-    "image": "images/isaac.png"
+    "image": "../../images/isaac.png"
   },
   {
     "name": "Macarons",
